@@ -31,7 +31,7 @@
     <tr>
       <td>en</td>
       <td>日语</td>
-      <td>常态</td>
+      <td>普通</td>
     </tr>
     <tr>
       <td rowspan="1">其他角色</td> <td colspan="3" align="center">待续</td> </tr>
